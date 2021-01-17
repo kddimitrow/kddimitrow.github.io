@@ -1,0 +1,93 @@
+
+#body{
+  background-color:  #f8f9fa;
+}
+
+#topNav{
+background-color: #AFF492;
+/* #04E474 */
+color: blue;
+}
+
+
+#Login{
+  margin-right: 3px;
+  margin-bottom: 5px;
+}
+
+#Cart{
+  margin-bottom: 5px;
+}
+
+
+#logoImg{
+  height: 85px;
+  width: 115px;
+}
+
+#menuBar{
+  background-color: #AFF492;
+
+}
+
+
+
+#hamburger2{
+  margin-left: 10px;
+
+}
+
+#navbarsExample08{
+    margin-left: 10px;
+
+}
+
+#dropped{
+    background-color: #AFF492;
+}
+
+#hr1{
+  /* width:100%; */
+height:3px;
+border-width:0;
+color:gray;
+margin-left:25%;
+margin-right:25%;
+}
+
+
+#predlaganiProd{
+  /* justify-content: center; */
+  /* text-align: center; */
+  margin-bottom: 2%;
+  /* margin-left:25%;
+  margin-right:25%; */
+
+}
+
+
+#Price{
+  color: red;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
